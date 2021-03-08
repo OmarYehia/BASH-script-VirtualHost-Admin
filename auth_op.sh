@@ -57,7 +57,7 @@ function enableAuthentication {
 			if [ ${?} -eq 0 ]
 			then
 				local UPDATEUSER
-				read -p "User already exist, would you like to update his password (y/n)? :" UPDATEUSER
+				read -p "User already exist, would you like to update his password (y/n)? " UPDATEUSER
 				if [ ${UPDATEUSER} == "y" ]
 				then
 					sudo htpasswd /etc/apache2/.htpasswd ${USER}

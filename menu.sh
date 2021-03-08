@@ -31,6 +31,7 @@ function displayMenu {
 	echo "|   8- Enable Authintication        |"
 	echo "|   9- Disable Authintication       |"
 	echo "|___________________________________|"
+	echo " "
 }
 
 ### This function is responsible for menu operations when a user types a key
@@ -41,6 +42,7 @@ function runMenu {
 	while [ ${FLAG} -eq 1 ]
 	do
 		read -p "Choose an operation (or type 'quit' to exit): " CH
+		echo " "
 		case ${CH} in
 			"1")
 				local VERSION
