@@ -8,10 +8,10 @@
 
 ### <b>Table of Contents</b>
 
-- [Description](#<b>Description</b>)
-- [How To Use and Screenshots](#<b>how-to-use</b>)
-- [Author Info](#<b>author-info</b>)
-- [License](#<b>license</b>)
+- [Description](#Description)
+- [How To Use and Screenshots](#how-to-use)
+- [Author Info](#author-info)
+- [License](#license)
 
 ---
 
@@ -29,7 +29,7 @@ This script provides all the basic operations that you need to simply manage you
 
 - Shell
 
-[Back To The Top](#<b>Webserver-Admin-Script</b>)
+[Back To The Top](#Webserver-Admin-Script)
 
 ---
 
@@ -61,7 +61,7 @@ bash -x server_admin.sh
 ![](imgs/listvirtualhosts.png)
 ![](imgs/quit.png)
 
-[Back To The Top](#<b>Webserver-Admin-Script</b>)
+[Back To The Top](#Webserver-Admin-Script)
 
 ---
 
@@ -70,7 +70,7 @@ bash -x server_admin.sh
 - Omar Yehia Ahmed - [Linkedin](https://www.linkedin.com/in/omar-yehia94/)
 
 
-[Back To The Top](#<b>Webserver-Admin-Script</b>)
+[Back To The Top](#Webserver-Admin-Script)
 
 ---
 
@@ -98,6 +98,6 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
-[Back To The Top](#<b>Webserver-Admin-Script</b>)
+[Back To The Top](#Webserver-Admin-Script)
 
 ---
